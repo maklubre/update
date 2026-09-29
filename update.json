@@ -1,10 +1,5 @@
 {
-  "tag_name": "v1.2.0",
-  "body": "Changelog rilis...",
-  "assets": [
-    {
-      "name": "Null Tr4sher",
-      "browser_download_url": "https://www.mediafire.com/file/aodafsq4muszzq4/Trash_Null_Latest.apk/file"
-    }
-  ]
+  "version": "6.0.1",
+  "apk_url": "https://www.mediafire.com/file/aodafsq4muszzq4/Trash_Null_Latest.apk/file",
+  "changelog": "• Perbaikan bug login\n• Optimasi performa WhatsApp\n• Fitur baru cek notifikasi"
 }
